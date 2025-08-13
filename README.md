@@ -27,7 +27,7 @@
 - 📚 Преподаю современные технологии будущим инженерам 
 - �  Учусь и исследую лучшие практики автоматизации и управления инфраструктурой  
 
-### 🛠 Мой стек и интересы:  
+### 🛠️ Мой стек и интересы:  
 **DevOps & Cloud:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
