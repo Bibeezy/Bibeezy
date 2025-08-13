@@ -15,12 +15,29 @@
 
  
 <h1 align="center">
-  hey there
+  Привет, я Олег  👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bibeezy)](https://git.io/streak-stats)
+
+### 🛠 Мой стек и интересы:  
+**DevOps & Cloud:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)  
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI/CD-FCA121?logo=gitlab&logoColor=white)  
+
+**Мониторинг и логи:**  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  
+![ELK](https://img.shields.io/badge/-ELK-005571?logo=elastic&logoColor=white)  
+
+**Программирование и автоматизация:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)  
 
 <!--
 **Bibeezy/Bibeezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
