@@ -15,12 +15,17 @@
 
  
 <h1 align="center">
-  Привет, я Олег  👋
+  Привет, я Олег
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bibeezy)](https://git.io/streak-stats)
+
+🔭 **В настоящий момент времени я:**  
+- 🎓 Пишу диссертацию в области идентификации технических систем
+- 📚 Преподаю современные технологии будущим инженерам 
+- �  Учусь и исследую лучшие практики автоматизации и управления инфраструктурой  
 
 ### 🛠 Мой стек и интересы:  
 **DevOps & Cloud:**  
@@ -35,9 +40,14 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  
 ![ELK](https://img.shields.io/badge/-ELK-005571?logo=elastic&logoColor=white)  
 
-**Программирование и автоматизация:**  
+**Программирование и автоматизация:**
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)  
+
+
 
 <!--
 **Bibeezy/Bibeezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
