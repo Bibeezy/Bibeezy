@@ -40,8 +40,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  
 ![ELK](https://img.shields.io/badge/-ELK-005571?logo=elastic&logoColor=white)  
 
-**Программирование и автоматизация:**
-
+**Программирование и автоматизация:**\n
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
