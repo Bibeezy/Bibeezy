@@ -34,7 +34,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)  
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)  
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI/CD-FCA121?logo=gitlab&logoColor=white)</br>
-[![Zabbix](https://img.shields.io/badge/Zabbix-FF0000?style=for-the-badge&logo=zabbix&logoColor=white)](https://www.zabbix.com)
+![Zabbix](https://img.shields.io/badge/-Zabbix-EE0000?logo=zabbix&logoColor=white)
 
 **Мониторинг и логи:**  
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
