@@ -43,7 +43,7 @@
 **Программирование и автоматизация:**</br>
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)</br> 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)  
 
